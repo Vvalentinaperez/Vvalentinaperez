@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentina</h1>
 <h3 align="center">I am a passionate front end developer from Argentina.</h3>
 
-- 🔭 I’m currently working on **my portfolio and other project with Next.js.**
+- 🔭 I’m currently working on **my portfolio and other project with Next.js and Tailwind.**
 
 - 👯 I’m looking to collaborate on **Next.js.**
 
