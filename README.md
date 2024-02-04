@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Valentina</h1>
 <h3 align="center">I am a passionate front end developer from Argentina.</h3>
 
-- 🔭 I’m currently working on **my portfolio and other project with Next.js and Tailwind.**
+- 🔭 I’m currently working on **e-commerce for a clothing and accessory store, designed with Figma and developed with Node.js, Express and React.js.**
 
-- 👯 I’m looking to collaborate on **Next.js.**
+- 👯 I’m looking to collaborate on **React.js, Next.js, Javascript, Tailwind, CSS**
 
 - 🤝 I’m looking for help with **the technologies I currently know or any other where I have the opportunity to learn something new.**
 
-- 💬 Ask me about **Javascript, React, Redux, Express, PostgreSQL, Sequelize, CSS, HTML.**
+- 💬 Ask me about **Javascript, React, Redux, Express, PostgreSQL, Sequelize, CSS, HTML, Figma**
 
 - 📫 How to reach me **valentinaperez23072001@gmail.com**
 
